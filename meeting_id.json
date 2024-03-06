@@ -1,0 +1,55 @@
+{
+    "from": "2024-02-03",
+    "to": "2024-03-03",
+    "page_count": 1,
+    "page_size": 30,
+    "total_records": 3,
+    "next_page_token": "",
+    "meetings": [
+        {
+            "uuid": "+ExHYbBuTbqlPNoHRri3jg==",
+            "id": 88321453048,
+            "host_id": "EYs5EfMbRjmO9sMThlRSbA",
+            "type": 2,
+            "topic": "Banu Priya's Zoom Meeting",
+            "user_name": "Banu Priya",
+            "user_email": "banugus@gmail.com",
+            "start_time": "2024-03-01T01:18:41Z",
+            "end_time": "2024-03-01T02:28:58Z",
+            "duration": 71,
+            "total_minutes": 145,
+            "participants_count": 4,
+            "source": "Zoom"
+        },
+        {
+            "uuid": "HJXCXBTCSYGUFKMABKLDoA==",
+            "id": 87389331528,
+            "host_id": "EYs5EfMbRjmO9sMThlRSbA",
+            "type": 2,
+            "topic": "Banu Priya's Zoom Meeting",
+            "user_name": "Banu Priya",
+            "user_email": "banugus@gmail.com",
+            "start_time": "2024-03-01T02:44:54Z",
+            "end_time": "2024-03-01T03:37:55Z",
+            "duration": 54,
+            "total_minutes": 70,
+            "participants_count": 3,
+            "source": "Zoom"
+        },
+        {
+            "uuid": "Zur4cAHiRn+h3WdALveLoQ==",
+            "id": 81956206807,
+            "host_id": "EYs5EfMbRjmO9sMThlRSbA",
+            "type": 2,
+            "topic": "Banu Priya's Zoom Meeting",
+            "user_name": "Banu Priya",
+            "user_email": "banugus@gmail.com",
+            "start_time": "2024-03-01T04:42:27Z",
+            "end_time": "2024-03-01T05:27:58Z",
+            "duration": 46,
+            "total_minutes": 46,
+            "participants_count": 2,
+            "source": "Zoom"
+        }
+    ]
+}
